@@ -5,4 +5,8 @@ THis is the project I have done in my MSCIT first year
 # Description
 
 This is very basic project which is based on the Admission data set where we have multiple columns.
-which is affectiong the chance of admission of the stduent to thet particular institute
+which is affecting the chance of admission of the student to thet particular Institutes/Universities
+
+# Basic steps to build this model 
+* As we are folowing software development cycle so according to our 
+
